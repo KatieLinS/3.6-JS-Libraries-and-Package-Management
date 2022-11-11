@@ -1,0 +1,26 @@
+{
+  "name": "js-lib-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-nodemon": "^2.5.0",
+    "prompt-sync": "^4.2.0",
+    "requirejs": "^2.3.6",
+    "sharp": "^0.31.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "mocha": "^10.1.0"
+  }
+}
